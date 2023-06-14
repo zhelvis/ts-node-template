@@ -29,5 +29,8 @@
       "node_modules",
       "**/*.test.ts",
       "**/*.spec.ts"
-    ]
+    ],
+    "ts-node": {
+      "swc": true
+    }
   }
